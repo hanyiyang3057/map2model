@@ -1,0 +1,71 @@
+{
+  "external_urls_found_in_bundles": [
+    {
+      "file": "index-CmNODdig.js",
+      "urls": [
+        "http://geoman.io",
+        "http://www.topografix.com/GPX/1/1",
+        "http://www.w3.org/1998/Math/MathML",
+        "http://www.w3.org/1999/xlink",
+        "http://www.w3.org/2000/svg",
+        "https://1.0.0.1/cdn-cgi/trace",
+        "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png",
+        "https://cloudflare-dns.com/cdn-cgi/trace",
+        "https://cloudflare-eth.com/cdn-cgi/trace",
+        "https://cloudflare-ipfs.com/cdn-cgi/trace",
+        "https://cloudflare.tv/cdn-cgi/trace",
+        "https://download.mapterhorn.com/attribution.json",
+        "https://geoman.io",
+        "https://github.com/geoman-io/leaflet-geoman/issues",
+        "https://leafletjs.com",
+        "https://nominatim.openstreetmap.org/search?format=json&q=${t3}&addressdetails=1&limit=5",
+        "https://one.one.one.one/cdn-cgi/trace",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${zz}",
+        "https://pages.dev/cdn-cgi/trace",
+        "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png",
+        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        "https://single-archive-tiles.mapterhorn.com/coverage.json",
+        "https://tiles.mapterhorn.com/{z}/{x}/{y}.webp",
+        "https://vuejs.org/error-reference/#runtime-${n2}",
+        "https://workers.dev/cdn-cgi/trace",
+        "https://www.buymeacoffee.com/smoggy3d",
+        "https://www.openstreetmap.org/copyright",
+        "https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png",
+        "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
+        "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      ]
+    },
+    {
+      "file": "MeshCreator-Di8fxqi1.js",
+      "urls": [
+        "http://ascendercorp.com/eula10.html",
+        "http://schemas.microsoft.com/3dmanufacturing/2013/01/3dmodel",
+        "http://schemas.microsoft.com/3dmanufacturing/core/2015/02",
+        "http://schemas.microsoft.com/3dmanufacturing/material/2015/02",
+        "http://schemas.microsoft.com/3dmanufacturing/production/2015/06",
+        "http://schemas.openxmlformats.org/package/2006/content-types",
+        "http://schemas.openxmlformats.org/package/2006/relationships",
+        "http://schemas.slic3r.org/3mf/2017/06",
+        "http://scripts.sil.org/",
+        "http://scripts.sil.org/OFL",
+        "http://scripts.sil.org/OFL\\r",
+        "http://www.ascendercorp.com/",
+        "http://www.ascendercorp.com/typedesigners.html",
+        "http://www.ellak.gr/fonts/MgOpen/license.html",
+        "http://www.magenta.gr",
+        "http://www.magenta.gr/",
+        "http://www.sil.org/)",
+        "http://www.sil.org/~gaultney",
+        "http://www.w3.org/1999/xhtml",
+        "https://docs.overturemaps.org/release-calendar/",
+        "https://github.com/protomaps/PMTiles/tree/main/js",
+        "https://jcgt.org/published/0007/04/01/",
+        "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+        "https://overpass-api.de/api/interpreter",
+        "https://overpass.osm.jp/api/interpreter",
+        "https://overpass.private.coffee/api/interpreter",
+        "https://overturemaps-extras-us-west-2.s3.us-west-2.amazonaws.com/tiles"
+      ]
+    }
+  ]
+}
